@@ -1,0 +1,11 @@
+{
+  "name": "atividade-de-modelagem-de-classes",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx tsc && node ./dist"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
